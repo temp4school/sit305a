@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="stuff">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+    <string name="text1"></string>
+    <string name="text2"></string>
+    <string name="text3"></string>
+    <string name="text4"></string>
+    <string name="text5"></string>
+    <string name="text6"></string>
+    <string name="distanceDescription">...</string>
+    <string name="tempDescription">...</string>
+    <string name="weightDescription">...</string>
+</resources>
